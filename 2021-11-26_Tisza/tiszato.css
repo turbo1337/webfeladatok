@@ -19,6 +19,7 @@ p{
 }
 
 h2{
+    font-weight: bold;
     padding: 75px 5px 20px;
     color: rgb(28, 36, 53);
 }
@@ -70,7 +71,7 @@ tbody{
 .madarkep{
     width: 100px;
     vertical-align: bottom;
-    cursor: pointer;
+    cursor: inherit;
 }
 
 small {
@@ -85,6 +86,7 @@ small {
 
 .novenykep{
     font-style: italic;
+    text-align: center;
 }
 
 .novenykep img{
